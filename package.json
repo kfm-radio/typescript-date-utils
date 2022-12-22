@@ -1,0 +1,22 @@
+{
+  "name": "typescript-date-utils",
+  "version": "1.0.0",
+  "description": "A simple date util package for learning typescript.",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kfm-radio/typescript-date-utils.git"
+  },
+  "author": "kristen foster-marks",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kfm-radio/typescript-date-utils/issues"
+  },
+  "homepage": "https://github.com/kfm-radio/typescript-date-utils#readme",
+  "dependencies": {
+    "mocha": "^10.2.0"
+  }
+}
